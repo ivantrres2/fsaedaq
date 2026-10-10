@@ -15,7 +15,7 @@
 
 * Open M1 Build, if the project does not show up in the inital splash screen, click ```Open a Project```
   
-* Search for the ```CC-EV1 Michigan 2027``` project, and select the latest version:
+* Search for the ```CC-EV1 Michigan 2027``` project, and select the latest version. Open the Project:
 
 ![m1build](/assets/Screenshot%202026-10-10%20140144.png)
 
