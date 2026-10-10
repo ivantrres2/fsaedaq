@@ -2,7 +2,7 @@
 
 
 ## Installing New M1 Build Projects:
-* To update your M1 Build Local Project, first make sure you have installed version 1.4.0.239 of MoTec M1 Build. Other versions have not been tested.
+* To update your M1 Build Local Project, first make sure you have installed version 1.4.0.0239 of MoTec M1 Build. Other versions have not been tested.
 
 * Verify you are in the Projects Directory:           
 ```(C:\Users\[YOUR-USER]\Documents\MoTeC\M1\Build\Projects\)```
